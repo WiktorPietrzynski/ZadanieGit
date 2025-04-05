@@ -1,3 +1,5 @@
-print("skibidi")
-print("delulu")
-print("jesieniara")
+print("skibidi2")
+print("delulu2")
+print("jesieniara2")
+print("Gyat")
+print("Meow")
