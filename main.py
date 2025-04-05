@@ -1,5 +1,3 @@
-print("skibidi2")
-print("motyla noga")
 print("koniara")
 print("Gyat")
 print("Meow")
