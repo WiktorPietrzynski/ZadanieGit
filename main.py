@@ -1,6 +1,2 @@
-print("test")
-print("skibidi2")
-print("motyla noga")
-print("kosiara")
 print("Gyat")
 print("Meow")
