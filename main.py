@@ -1,5 +1,6 @@
+print("test")
 print("skibidi2")
 print("motyla noga")
-print("koniara")
+print("kosiara")
 print("Gyat")
 print("Meow")
